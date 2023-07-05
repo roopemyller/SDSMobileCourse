@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Video 3</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>apple</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>0,99 €</item>
+        <item>1,45 €</item>
+        <item>2,20 €</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Nice peaches</item>
+        <item>Fresh tomatoes</item>
+        <item>Big round apples</item>
+    </string-array>
+</resources>
